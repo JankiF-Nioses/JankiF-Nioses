@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Janki Fofandi, a passionate software developer
 I thrive on transforming complex challenges into seamless and user-friendly experiences.
 
 🚀 What I Do
-Odoo Development: Leveraging 2.3 years of experience to build and optimize Odoo modules and enhance business processes.
+Odoo Development: Leveraging 2.5+ years of experience to build and optimize Odoo modules and enhance business processes.
 Python Enthusiast: Developing robust and scalable applications with Python, always seeking to improve code quality and performance.
 Problem Solving: Tackling intricate problems with creativity and technical expertise to deliver effective and efficient solutions.
 
